@@ -100,5 +100,5 @@ Azure Databricks · Unity Catalog · Delta Live Tables / Lakeflow · Auto Loader
 
 ---
 
-*Built as a hands-on learning project. Open to Data Engineering opportunities — feel free to connect on [LinkedIn]                        (https://www.linkedin.com/in/pankaj-yadav-406041103).
+*Built as a hands-on learning project. Open to Data Engineering opportunities — feel free to connect on [LinkedIn](https://www.linkedin.com/in/pankaj-yadav-406041103).*
 
