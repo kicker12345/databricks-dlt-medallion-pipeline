@@ -1,0 +1,5 @@
+OrderID,CustomerID,OrderDate,TotalAmount,Status
+101,3,2026-06-10,1499.00,delivered
+102,7,2026-06-10,2350.50,pending
+103,1,2026-06-10,899.00,shipped
+104,5,2026-06-10,3200.00,delivered
